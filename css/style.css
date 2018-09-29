@@ -68,6 +68,14 @@ body {
   width: 150px;
 }
 
+.fa-github {
+  padding-left: 15px;
+}
+
+.fa-linkedin {
+  padding-left: 15px;
+}
+
 /* Media query  */
 @media (max-width: 650px) {
   .landing img {
