@@ -68,12 +68,18 @@ body {
   width: 150px;
 }
 
+.fa-twitter {
+  color: #5EAADE;
+}
+
 .fa-github {
   padding-left: 15px;
+  /*color: black;*/
 }
 
 .fa-linkedin {
   padding-left: 15px;
+  color: #007BB5;
 }
 
 /* Media query  */
